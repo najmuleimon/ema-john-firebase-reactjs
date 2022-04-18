@@ -1,0 +1,77 @@
+.sign-in-up {
+    padding: 80px 0;
+}
+
+.sign-in-up .main-area {
+    padding: 30px;
+    border: 1px solid var(--dark);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    box-shadow: -10px 10px 0 var(--yellow);
+}
+
+.sign-in-up h2 {
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    color: var(--text);
+    text-transform: capitalize;
+}
+
+.sign-in-up .submit-btn {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 40px;
+    width: 100%;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background-color: var(--yellow);
+    color: var(--text);
+    display: block;
+    border: 0;
+}
+
+.sign-in-up .submit-btn:hover {
+    background-color: var(--yellow);
+}
+
+.sign-in-up .divider {
+    margin: 0 50px;
+}
+
+.sign-in-up .divider div {
+    height: 1px;
+    background-color: var(--dark);
+    margin-top: 5px;
+}
+
+.sign-in-up .divider span {
+    display: inline-block;
+    font-size: 18px;
+    color: var(--text);
+    padding: 0 10px;
+    font-weight: 400;
+    height: fit-content;
+}
+
+.sign-in-up p {
+    font-size: 16px;
+    color: var(--dark);
+    font-weight: 400;
+    padding-top: 30px;
+}
+
+.sign-in-up p a {
+    color: var(--yellow);
+}
+
+.sign-in-up .error-msg {
+    color: #d83232;
+    padding-top: 10px;
+}

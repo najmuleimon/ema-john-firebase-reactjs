@@ -1,0 +1,50 @@
+.banner {
+    padding: 80px 0;
+}
+
+.banner small {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    color: var(--yellow);
+}
+
+.banner h1 {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72px;
+    color: var(--text);
+}
+
+.banner p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: var(--dark);
+    padding-bottom: 20px;
+}
+
+.banner .shop-now {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 40px;
+    padding: 0 20px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background-color: var(--yellow);
+    color: var(--text);
+    display: inline-block;
+}
+
+.banner .img img {
+    width: auto;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    box-shadow: -10px 10px 0px var(--yellow);
+}

@@ -1,0 +1,20 @@
+.social-btn button {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 50px;
+    width: 100%;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    background-color: transparent;
+    color: var(--text);
+    display: block;
+    border: 1px solid var(--dark);
+    margin-top: 30px;
+}
+
+.social-btn button img {
+    padding-right: 30px;
+}

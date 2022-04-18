@@ -1,0 +1,6 @@
+1. install react router dom = npm install react-router-dom@6
+2. install react bootstrap = npm install react-bootstrap bootstrap
+3. install firebase = npm install firebase
+4. install react firebase hooks = npm install --save react-firebase-hooks
+5. install react icons = npm install react-icons --save
+6. install react toastify = npm install --save react-toastify

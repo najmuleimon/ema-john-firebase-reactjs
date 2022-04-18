@@ -1,0 +1,11 @@
+.navbar-light .navbar-nav .nav-link {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    color: #fff !important;
+    padding: 10px !important;
+}
+
+.navbar-light .navbar-nav .active-link {
+    color: var(--yellow) !important;
+}

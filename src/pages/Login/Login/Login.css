@@ -1,0 +1,12 @@
+.sign-in-up.login p {
+    padding-top: 10px;
+}
+
+.login .forget-pass {
+    font-size: 16px;
+    color: var(--yellow);
+    font-weight: 400;
+    border: 0;
+    background-color: transparent;
+    margin-top: 10px;
+}
